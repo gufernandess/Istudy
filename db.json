@@ -1,0 +1,208 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Matemática",
+      "cor": "#d62828",
+      "link_extra": {
+        "text": "Aulas de matemática e de lógica matemática para aprender com eficiência"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Física",
+      "cor": "#ffd500",
+      "link_extra": {
+        "text": "Aprenda e goste de física de uma forma totalmente inovadora"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Literatura",
+      "cor": "#8ac926",
+      "link_extra": {
+        "text": "Encontre videos que discorrem sobre diversas obras da literatura nacional e internacional"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filosofia",
+      "cor": "#e36414",
+      "link_extra": {
+        "text": "Aulas sobre os principais filósofos da história da humanidade"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Inglês",
+      "cor": "#0096c7",
+      "link_extra": {
+        "text": "Saiba macetes e dicas sobre como aprender inglês para conversação na prática"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "COMO estudar segundo Feynman",
+      "url": "https://www.youtube.com/watch?v=_GNrKc61-lA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "COMO ESTUDAR MATEMÁTICA | Lucas Felpi",
+      "url": "https://www.youtube.com/watch?v=9eWhAlI2u9U"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "FUNÇÕES DO 1° GRAU (ENEM/VESTIBULARES) - 10 Questões",
+      "url": "https://www.youtube.com/watch?v=DdQyt3IR7OY"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Porque elevar a ZERO dá 1?! Potenciação!",
+      "url": "https://www.youtube.com/watch?v=Mhq11DMPIvU"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "COMO CALCULAR QUALQUER RAIZ QUADRADA!",
+      "url": "https://www.youtube.com/watch?v=1xCEG8CUEwE"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "💡 Soma de Frações - Aprenda em definitivo! (com macete)",
+      "url": "https://www.youtube.com/watch?v=m2ESYDTWvoE&list=PLEfwqyY2ox84hkGu-sLmE7rTGvaqoJBXd&index=4"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Conjuntos - Aula 01 (Matemática)",
+      "url": "https://www.youtube.com/watch?v=8RbGADNEUgk&list=PLN8OTSLpUpRxXnpMgjnTy_oifXA-GK3gW"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Introdução aos Números Complexos - Matemática (Aula 01)",
+      "url": "https://www.youtube.com/watch?v=MXwqEHJBTbs&list=PLN8OTSLpUpRxqm2IZVcbYtV49IzyQh8y8&index=2&t=3s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "COMO APRENDER FÍSICA?!",
+      "url": "https://www.youtube.com/watch?v=2f7t6FkF0DM"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "As Leis de Newton, uma abordagem significativa.",
+      "url": "https://www.youtube.com/watch?v=glUILTX9GhU"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "A História COMPLETA da GRAVITAÇÃO UNIVERSAL | Episódio 9",
+      "url": "https://www.youtube.com/watch?v=4OLOOs-uMhM&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=10"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Cinemática e Progressão Geométrica (Aula de Física + Matemática)",
+      "url": "https://www.youtube.com/watch?v=kg-LviGCiB8&list=PLtjX2mCwXXQvT5_gpofCGAcHsdbL1_2OX&index=6"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "A ENTROPIA EXPLICADA",
+      "url": "https://www.youtube.com/watch?v=qjHfkfIs1Ug&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=16"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "como GOSTAR de LER!",
+      "url": "https://www.youtube.com/watch?v=tLh4MkT-HeM&list=PLtjX2mCwXXQsemJFAlDV-qJ7l4XV1k1GY&index=2"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "CLÁSSICOS BRASILEIROS - Dez Livros Para Começar",
+      "url": "https://www.youtube.com/watch?v=dxerTuae-X4"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "LITERATURA CLÁSSICA │Literatura",
+      "url": "https://www.youtube.com/watch?v=3wGA7FLcPjM"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "O que é o TEMPO? - Os sonhos de Einstein (Alan Lightman)",
+      "url": "https://www.youtube.com/watch?v=vSwZkmS0zw8&list=PLtjX2mCwXXQsemJFAlDV-qJ7l4XV1k1GY&index=4"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "FILÓSOFOS PRÉ SOCRÁTICOS PARA O ENEM - Aula - 1",
+      "url": "https://www.youtube.com/watch?v=TIIzrsbx74E&list=PLMra4G0-Z7pOBZjKCxen5cRa6iUMAdYKh&index=2"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "MAPA MENTAL DE NIETZSCHE",
+      "url": "https://www.youtube.com/watch?v=KHnnNOkryMg"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "KARL MARX PARA O ENEM - Aula 19",
+      "url": "https://www.youtube.com/watch?v=FJ7FwQsDWvk"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "AULA 26 | Introdução à Filosofia Contemporânea | História da Filosofia",
+      "url": "https://www.youtube.com/watch?v=ntyT7M9XXLI"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "A FILOSOFIA DE PITÁGORAS DE SAMOS",
+      "url": "https://www.youtube.com/watch?v=epFMWZD2Erc"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "APRENDA INGLÊS EM 1 ANO SOZINHO (como eu aprendi sozinho)",
+      "url": "https://www.youtube.com/watch?v=s1f__pp8ycM"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "10 Melhores séries na Netflix para aprender inglês",
+      "url": "https://www.youtube.com/watch?v=xsUEm_faz_w&list=PLlpAWCqcstzoZt_eO-_z-AFlK_jSJ-XNe&index=78"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "4 DICAS PARA PENSAR EM INGLÊS",
+      "url": "https://www.youtube.com/watch?v=ax7UnxF78-M"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "4 dicas para melhorar seu inglês enquanto lê e se diverte",
+      "url": "https://www.youtube.com/watch?v=4zSsCKCIZKY&list=PLlpAWCqcstzoa-_jllWinkcm4sOoUlkaC&index=5"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "5 melhores aplicativos para aprender inglês",
+      "url": "https://www.youtube.com/watch?v=BbzH1Pm6VcY"
+    }
+  ]
+}
