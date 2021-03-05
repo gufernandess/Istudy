@@ -21,12 +21,10 @@ function Home() {
       });
     }, []);
 
-  // http://localhost:8080/categorias?_embed=videos
-
 
   return (
     <PageDefault paddingAll = {0}>
-      {dadosIniciais.length === 0 && (<center><div id = "loading"><img src = {Loading} alt = "" height = "200px" /></div></center>)}
+      {dadosIniciais.length === 0 && (<center><div id = "loading"><img src = {Loading} alt = "loading" height = "200px" /></div></center>)}
 
       {dadosIniciais.map((categoria, indice) => {
       if (indice === 0) {

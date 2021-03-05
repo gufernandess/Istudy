@@ -82,7 +82,7 @@ function CadastroCategoria(){
 
       {categorias.length === 0 && (
       <div>
-        <img src = {Loading} alt = "" height = "15px"/>
+        <img src = {Loading} alt = "loading" height = "15px"/>
         </div>
       )}
 
