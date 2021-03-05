@@ -16,15 +16,15 @@
 
 ## 📋 Tabela de conteúdo
 
-   * [Sobre]()
-   * [Tabela de Conteúdo]()
-   * [Funções]()
+   * [Sobre](https://github.com/gust-f/Istudy#-sobre)
+   * [Tabela de Conteúdo](https://github.com/gust-f/Istudy#-tabela-de-conte%C3%BAdo)
+   * [Funções](https://github.com/gust-f/Istudy#-fun%C3%A7%C3%B5es)
    * [Pré-requisitos e instalação]()
-   * [Como usar]()
-     * [Acessando os videos]()
-     * [Cadastrando novo video]()
-     * [Cadastrando categoria]()
-   * [Tecnologias]()
+   * [Como usar](https://github.com/gust-f/Istudy#-como-usar)
+     * [Acessando os videos](https://github.com/gust-f/Istudy#acessando-os-videos)
+     * [Cadastrando novo video](https://github.com/gust-f/Istudy#cadastrando-novo-video)
+     * [Cadastrando categoria](https://github.com/gust-f/Istudy#cadastrando-categoria)
+   * [Tecnologias](https://github.com/gust-f/Istudy#-tecnologias)
 
 <h1 align="center"> 
 	🚧 Projeto concluído 🚧
