@@ -25,6 +25,7 @@
      * [Cadastrando novo video](https://github.com/gust-f/Istudy#cadastrando-novo-video)
      * [Cadastrando categoria](https://github.com/gust-f/Istudy#cadastrando-categoria)
    * [Tecnologias](https://github.com/gust-f/Istudy#-tecnologias)
+   * [Autor](https://github.com/gust-f/Istudy#%EF%B8%8F-autor)
 
 <h1 align="center"> 
 	🚧 Projeto concluído 🚧
