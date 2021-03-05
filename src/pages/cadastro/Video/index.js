@@ -78,7 +78,7 @@ function CadastroVideo(){
           </Button>
         
 
-         <Button>
+         <Button type = "submit">
         <Link to = "/cadastro/Categoria">
           Nova categoria
           </Link>
