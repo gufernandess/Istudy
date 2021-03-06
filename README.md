@@ -19,7 +19,6 @@
    * [Sobre](https://github.com/gust-f/Istudy#-sobre)
    * [Tabela de Conteúdo](https://github.com/gust-f/Istudy#-tabela-de-conte%C3%BAdo)
    * [Funções](https://github.com/gust-f/Istudy#-fun%C3%A7%C3%B5es)
-   * [Pré-requisitos e instalação]()
    * [Como usar](https://github.com/gust-f/Istudy#-como-usar)
      * [Acessando os videos](https://github.com/gust-f/Istudy#acessando-os-videos)
      * [Cadastrando novo video](https://github.com/gust-f/Istudy#cadastrando-novo-video)
