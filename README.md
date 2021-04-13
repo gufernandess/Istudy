@@ -72,6 +72,14 @@
 
 ## ✍️ Autor
 
-<h3 align = "center">
+## 🖊️ Autor
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63157775?s=400&u=2f089fee42f3123d59ac7d6bdff2f384280514c7&v=4" width="100px;" alt=""/>
+ 
+ <sub><b><h5>Gustavo Fernandes</h5></b></sub> 
+
 ⚛️ Criado por <a href = "https://github.com/gust-f">Gustavo Fernandes</a> durante a <a href = "https://www.alura.com.br">Imersão React da Alura 
 ⚛️</a></h3>
+
+[![Twitter Badge](https://img.shields.io/badge/-@gust_f_b-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gust_f_b)](https://twitter.com/gust_f_b)
+[![Gmail Badge](https://img.shields.io/badge/-gustavo63693@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo63693@gmail.com)](mailto:gustavo63693@gmail.com)
