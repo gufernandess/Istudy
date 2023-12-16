@@ -3,8 +3,6 @@ import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import useForm from '../../../hooks/useForm';
-import Loading from '../../../assets/img/loading.gif';
-
 
 function CadastroCategoria(){
 
@@ -79,12 +77,6 @@ function CadastroCategoria(){
           Cadastrar
         </Button>
       </form>
-
-      {categorias.length === 0 && (
-      <div>
-        <img src = {Loading} alt = "loading" height = "15px"/>
-        </div>
-      )}
 
       <ul>
         {categorias.map((categoria) => {

@@ -12,7 +12,6 @@ function Home() {
    useEffect(() => {
       categoriasRepository.getAllWithVideos()
       .then((categoriasComVideos) => {
-         console.log(categoriasComVideos);
          setDadosIniciais(categoriasComVideos);
 
       })
@@ -24,7 +23,20 @@ function Home() {
 
   return (
     <PageDefault paddingAll = {0}>
-      {dadosIniciais.length === 0 && (<center><div id = "loading"><img src = {Loading} alt = "loading" height = "200px" /></div></center>)}
+      {dadosIniciais.length === 0 && (
+      <center>
+         <div id = "loading" style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            height: '100vh',
+            width: '100vw',
+            backgroundColor: 'black',
+         }}>
+            <img src = {Loading} alt = "loading" height = "200px" />
+         </div>
+      </center>
+      )}
 
       {dadosIniciais.map((categoria, indice) => {
       if (indice === 0) {
