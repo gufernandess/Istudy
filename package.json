@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "json-server": "^0.17.4",
+    "postcss": "^8.4.32",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -44,7 +45,6 @@
     "eslint-plugin-react": "^7.20.5",
     "eslint-plugin-react-hooks": "^4.0.8",
     "nth-check": ">=2.0.1",
-    "postcss": ">=8.4.31",
     "react-scripts": "^5.0.1"
   }
 }
