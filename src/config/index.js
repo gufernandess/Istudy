@@ -1,7 +1,7 @@
 const URL = window.location.hostname.includes('localhost')
 
  ? 'http://localhost:8080'
- : 'https://istudyreact-daa25f3facad.herokuapp.com';
+ : 'https://istudy-qtxs.onrender.com';
 
 export default{
     URL,
